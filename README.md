@@ -4,4 +4,4 @@
  
  USAGE
  ----- 
-  Point your browser to talk.html
+  Point your browser to https://fbielejec.github.io/alphy2016/#/
